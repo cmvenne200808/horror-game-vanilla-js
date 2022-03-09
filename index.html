@@ -1,17 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Unescaped to Be</title>
+		<link rel="stylesheet" href="css/style.css" />
+	</head>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Cool Game</title>
-    <link rel="stylesheet" href="css/style.css">
-</head>
+	<body>
+		<h1>Unescaped to Be</h1>
 
-<body>
-    <h1>My Cool Game!</h1>
-    <canvas id="game-canvas"></canvas>
-    <script src="scripts/app.js" type="module"></script>
-</body>
+		<audio src="/assets/audio/key-pickup.mp3" id="pickup-key"></audio>
+		<audio src="/assets/audio/door.wav" id="door-creaking"></audio>
+		<audio src="/assets/audio/scream-1.wav" id="scream"></audio>
+		<audio src="/assets/audio/teleport.wav" id="next-level"></audio>
+		<audio src="/assets/audio/clapping.ogg" id="beat-game"></audio>
 
+		<audio src="/assets/audio/undead-rising-loop-pack/undead-rising-low-tension.wav" id="Low"></audio>
+		<audio src="/assets/audio/undead-rising-loop-pack/undead-rising-medium-tension.wav" id="Medium"></audio>
+		<audio src="/assets/audio/undead-rising-loop-pack/undead-rising-high-tension-1.wav" id="High1"></audio>
+		<audio src="/assets/audio/undead-rising-loop-pack/undead-rising-high-tension-2.wav" id=High2></audio>
+
+		<canvas id="game-canvas"></canvas>
+		<script src="scripts/app.js" type="module"></script>
+	</body>
 </html>
