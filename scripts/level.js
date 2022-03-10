@@ -139,7 +139,7 @@ export let level4 = [
 	"w...k.d..d..d..d..d..d..d..d..d..d..d..d..d..d...w",
 	"w..k..k..k..k..k..k..k..k..k..k..k..k..k..k..k...w",
 	"w.D..D..D..D..D..D..D..D..D..D..D..D..D..D..D..D.w",
-	"w...k..mk..k.mk..k..k.mk..k..k.mk.mk.mk.mk..k....w",
+	"w...k..mk.mk.mk..k..k.mk..k..k.mk.mk.mk.mk..k....w",
 	"w..d..d..d..d..d..d..d..d..d..d..d..d..d..d..d...w",
 	"w..k..k..k..k..k..k..k..k..k..k..k..k..k..k..k...w",
 	"w.D..D..D..D..D..D..D..D..D..D..D..D..D..D..D..D.w",
