@@ -131,7 +131,10 @@ export let level3 = [
 	"wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww",
 ];
 
-//Insanity
+// Insanity
+// Totak Door-mination
+// The Door Beyond Chaos
+//
 
 export let level4 = [
 	"wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww",
